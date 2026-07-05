@@ -65,7 +65,7 @@ Accepted paper, "The Shi'er Zitou and the Ecological Conditions of Manchu Langua
 ## Service Leadership
 
 **Project Leader, Scavendgers, The ISF Academy** — *2022 to 2025*
-Led a student-run non-profit supporting Hong Kong's elderly cardboard scavengers: designed and laser-cut upcycled cardboard products (fridge magnets, bookmarks, badges, and art pieces) sold at school service days, raising roughly HK$5,000 in the first year and approximately HK$120,000 worth of goods and donations in 2023/24 for partner NGOs; produced interviews and awareness videos on scavenger poverty. Eight hours weekly across three school years, until departure for Gould Academy.
+Led a student-run non-profit supporting Hong Kong's elderly cardboard scavengers: designed and laser-cut upcycled cardboard products (fridge magnets, bookmarks, badges, and art pieces) sold at school service days, raising roughly HK$5,000 in the first year and approximately HK$120,000 worth of goods and donations in 2024/25 for partner NGOs; produced interviews and awareness videos on scavenger poverty. Eight hours weekly across three school years, until departure for Gould Academy.
 
 ---
 
