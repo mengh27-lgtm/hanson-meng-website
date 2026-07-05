@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hanson Meng 孟冠樺 | Curriculum Vitae</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Inter:wght@400;500;600&family=Noto+Serif+TC:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --navy: #002147;
+    --bronze: #8C7326;
+    --text: #22262B;
+    --muted: #5A5F66;
+    --rule: #DDD6C8;
+    --serif: 'Source Serif 4', 'Noto Serif TC', Georgia, serif;
+    --garamond: 'EB Garamond', 'Noto Serif TC', Georgia, serif;
+    --sans: 'Inter', -apple-system, 'Helvetica Neue', sans-serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: var(--garamond);
+    color: var(--text);
+    background: #EFEBE0;
+    font-size: 11pt;
+    line-height: 1.55;
+    font-variant-numeric: oldstyle-nums;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page {
+    max-width: 8.27in;
+    margin: 40px auto;
+    background: #FDFCF8;
+    padding: 0.85in 0.9in;
+    box-shadow: 0 2px 24px rgba(0,33,71,0.14);
+  }
+
+  .cjk { font-family: 'Noto Serif TC', serif; }
+
+  /* ---------- Header ---------- */
+  .cv-head { text-align: center; margin-bottom: 8px; }
+  .cv-name {
+    font-family: var(--serif);
+    font-size: 24pt; font-weight: 600; color: var(--navy);
+    letter-spacing: 0.01em; line-height: 1.2;
+  }
+  .cv-name .cjk { font-weight: 400; font-size: 18pt; margin-left: 10px; color: var(--muted); }
+  .cv-contact {
+    font-family: var(--sans);
+    margin-top: 8px; font-size: 8.6pt; color: var(--muted);
+    letter-spacing: 0.06em;
+  }
+  .cv-contact a { color: var(--muted); text-decoration: none; }
+  .head-rule {
+    border: none; border-top: 2.5px solid var(--navy); margin: 18px 0 2px;
+    position: relative;
+  }
+  .head-rule-thin { border: none; border-top: 1px solid var(--navy); margin: 0 0 26px; }
+
+  /* ---------- Sections ---------- */
+  h2 {
+    font-family: var(--serif);
+    font-size: 10.5pt; font-weight: 600; color: var(--navy);
+    text-transform: uppercase; letter-spacing: 0.22em;
+    margin: 24px 0 4px;
+    display: flex; align-items: center; gap: 14px;
+  }
+  h2::after { content: ""; flex: 1; border-top: 1px solid var(--rule); }
+  h2 .n { color: var(--bronze); font-size: 8.5pt; letter-spacing: 0.08em; }
+
+  .entry { margin-top: 13px; }
+  .entry-line {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 24px;
+  }
+  .entry-title {
+    font-family: var(--serif); font-size: 11.5pt; font-weight: 600; color: var(--navy);
+  }
+  .entry-title .role { font-weight: 400; font-style: italic; }
+  .entry-date {
+    font-family: var(--sans);
+    font-size: 8.2pt; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--bronze); white-space: nowrap;
+  }
+  .entry-sub { font-size: 10pt; color: var(--muted); font-style: italic; margin-top: 1px; }
+  .entry-body { margin-top: 5px; max-width: 100%; }
+  .entry-body p { margin-bottom: 5px; }
+
+  ul { list-style: none; margin-top: 5px; }
+  li { padding: 2.5px 0 2.5px 16px; position: relative; }
+  li::before {
+    content: ""; position: absolute; left: 2px; top: 0.62em;
+    width: 5px; height: 5px; background: var(--bronze);
+  }
+
+  .lang-line { margin-top: 8px; }
+  .lang-line strong { color: var(--navy); font-weight: 600; }
+  .sep { color: var(--bronze); padding: 0 6px; }
+
+  /* ---------- Print button ---------- */
+  .print-bar {
+    max-width: 8.27in; margin: 24px auto 0;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .back-link {
+    font-family: var(--sans); font-size: 8.5pt; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    color: var(--navy); text-decoration: none;
+    border: 1px solid var(--navy); padding: 10px 24px;
+  }
+  .back-link:hover { background: var(--navy); color: #fff; }
+  .print-bar button {
+    font-family: var(--sans); font-size: 8.5pt; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    background: var(--navy); color: #fff; border: none;
+    padding: 11px 26px; cursor: pointer;
+  }
+  .print-bar button:hover { background: #1a3157; }
+
+  /* ---------- Print ----------
+     To export a clean PDF: browser print dialog, Destination "Save as PDF",
+     Margins "Default", UNTICK "Headers and footers" (removes the file:///
+     path and timestamp), TICK "Background graphics". */
+  @page { size: A4; margin: 0.6in 0; }
+  @media print {
+    body { background: #fff; font-size: 10pt; }
+    .page { margin: 0 auto; padding: 0 0.75in; box-shadow: none; max-width: none; }
+    .print-bar { display: none; }
+    .entry { page-break-inside: avoid; }
+    h2 { page-break-after: avoid; }
+    a { color: inherit; }
+  }
+</style>
+</head>
+<body>
+
+<div class="print-bar">
+  <a class="back-link" href="index.html">&larr; Back to Website</a>
+  <button onclick="window.print()">Print / Save as PDF</button>
+</div>
+
+<div class="page">
+
+  <div class="cv-head">
+    <div class="cv-name">Hanson Meng<span class="cjk">孟冠樺</span></div>
+    <div class="cv-contact">
+      Bethel, Maine · Hong Kong &nbsp;|&nbsp;
+      <a href="mailto:hansonmeng9@gmail.com">hansonmeng9@gmail.com</a> &nbsp;|&nbsp;
+      <a href="https://youtube.com/@manjugisun1">youtube.com/@manjugisun1</a>
+    </div>
+  </div>
+  <hr class="head-rule"><hr class="head-rule-thin">
+
+  <h2>Education</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Gould Academy</span>
+      <span class="entry-date">2025 – 2027 (expected)</span>
+    </div>
+    <div class="entry-sub">Bethel, Maine</div>
+    <ul>
+      <li>Grade point average: 97.2 / 100.</li>
+      <li>SAT 1500: Mathematics 790, Evidence-Based Reading &amp; Writing 710.</li>
+      <li>Advanced Placement coursework: United States History, English Language, Calculus AB, and Biology (Grade 11); English Literature, US Government, Macroeconomics, and Calculus BC (Grade 12).</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">The ISF Academy</span>
+      <span class="entry-date">2014 – 2025</span>
+    </div>
+    <div class="entry-sub">The Independent Schools Foundation Academy · Hong Kong</div>
+    <ul>
+      <li>International Baccalaureate Middle Years Programme: 46 of 49.</li>
+      <li>International Baccalaureate Diploma Programme Scholarship: full award with a 100% tuition waiver, for holistic excellence across academics, sport, and service.</li>
+      <li>Magna Cum Laude, top decile of cohort, awarded twice.</li>
+      <li>ISF Honours, top quintile of cohort, awarded twice.</li>
+      <li>Individuals and Societies Subject Award, top performer in cohort.</li>
+      <li>Commitment to Learning Award.</li>
+    </ul>
+  </div>
+
+  <h2>Research &amp; Publications</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title"><em>Elementary Manchu for Heritage Speakers</em></span>
+      <span class="entry-date">2025 – present</span>
+    </div>
+    <div class="entry-sub">Primary author and editorial lead · forthcoming 2027 · NFLRC, University of Hawaiʻi at Mānoa</div>
+    <div class="entry-body">
+      <p>The first modern English-language Manchu curriculum built on the traditional twelve
+      syllables method, a syllabary-based pedagogy dormant since 1911. A four-volume series of
+      approximately 450 pages with roughly 80 companion video lectures, written for heritage
+      learners and the Manchu diaspora; romanisation follows the Abkai system. Forthcoming with
+      the National Foreign Language Resource Center (NFLRC), University of Hawaiʻi at Mānoa,
+      under a signed Letter of Agreement (November 2025); complete manuscript in peer review
+      with three Manchu specialists.</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Qingwen Qimeng, annotated translation</span>
+      <span class="entry-date">In progress</span>
+    </div>
+    <div class="entry-body">
+      <p>Translation and transliteration of the Yongzheng-era Manchu primer (first published 1730),
+      presented in parallel transliteration, Chinese, and English; 20 chapters completed to date.</p>
+    </div>
+  </div>
+
+  <h2>Research Appointments</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Research Assistant <span class="role">to Prof. Nathan Vedal</span></span>
+      <span class="entry-date">July 2026 – Present</span>
+    </div>
+    <div class="entry-sub">Department of East Asian Studies · University of Toronto</div>
+    <div class="entry-body">
+      <p>Sole research assistant on the project. Transcribing tales from three Manchu translations
+      of the Liaozhai zhiyi, including two sole-surviving manuscripts, into Möllendorff
+      romanisation, supporting a comparative study of Qing translation practice for a monograph
+      in progress; three tales transcribed to date.</p>
+    </div>
+  </div>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Research Assistant</span>
+      <span class="entry-date">2023 – 2024</span>
+    </div>
+    <div class="entry-sub">Needham Research Institute, Cambridge · under Dr. Jingyi Jenny Zhao, ISF Senior Research Fellow</div>
+    <div class="entry-body">
+      <p>Conducted historical research on East Asian demographic change under the mentorship of
+      Dr. Jingyi Zhao (Needham Research Institute, University of Cambridge); authored a research
+      paper analysing Chinese population cycles through Malthusian theory.</p>
+    </div>
+  </div>
+
+  <h2>Teaching</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Manchu Language Instructor</span>
+      <span class="entry-date">Summer 2025 · Returning 2026</span>
+    </div>
+    <div class="entry-sub">Changbaishan Research Institute · Tonghua University partnership</div>
+    <div class="entry-body">
+      <p>Taught Manchu to a cohort of 16 students, including visiting doctoral students from the
+      University of Chicago and Peking University alongside heritage learners: six hours of daily
+      instruction across a two-week session, using the twelve syllables method; collaborated
+      with university researchers on the verification of linguistic data. Returning for the
+      Summer 2026 session. Instruction conducted at Changbaishan (Golmin Šanggiyan Alin), the
+      sacred ancestral mountain of the Manchus and a UNESCO Biosphere Reserve and Global
+      Geopark.</p>
+    </div>
+  </div>
+
+  <h2>Field Research</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Sanjiazi (Ilan Boo Tokso), Heilongjiang Province</span>
+      <span class="entry-date">2025</span>
+    </div>
+    <div class="entry-body">
+      <p>Conducted a week of recorded field interviews with one of the last living native speakers
+      of Manchu, in one of the final villages where the language survives in spoken form;
+      transcribed phonetic data now incorporated into the NFLRC instructional series.</p>
+    </div>
+  </div>
+
+  <h2>Conference Presentations</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Presenter, New York Conference on Asian Studies (NYCAS)</span>
+      <span class="entry-date">October 2026 · Forthcoming</span>
+    </div>
+    <div class="entry-sub">Vassar College · Poughkeepsie, New York</div>
+    <div class="entry-body">
+      <p>Accepted paper, "The Shi'er Zitou and the Ecological Conditions of Manchu Language
+      Transmission," on script-first pedagogy and the revival of the twelve syllables method.</p>
+    </div>
+  </div>
+
+  <h2>Service Leadership</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Project Leader, Scavendgers</span>
+      <span class="entry-date">2022 – 2025</span>
+    </div>
+    <div class="entry-sub">The ISF Academy · student initiative for Hong Kong's elderly cardboard scavengers</div>
+    <div class="entry-body">
+      <p>Led a student-run non-profit supporting Hong Kong's elderly cardboard scavengers:
+      designed and laser-cut upcycled cardboard products (fridge magnets, bookmarks, badges,
+      and art pieces) sold at school service days, raising roughly HK$5,000 in the first year
+      and approximately HK$120,000 worth of goods and donations in 2023/24 for partner NGOs;
+      produced interviews and awareness videos on scavenger poverty. Eight hours weekly across
+      three school years, until departure for Gould Academy.</p>
+    </div>
+  </div>
+
+  <h2>Athletics</h2>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Hong Kong National Ski &amp; Snowboarding Team</span>
+      <span class="entry-date">2026 – present</span>
+    </div>
+    <div class="entry-sub">FIS-registered · Alpine snowboard racing · snowboard cross</div>
+    <div class="entry-body">
+      <p>Selected at the national team selection sessions in Tignes, France (April 2026); elite training
+      in Steamboat, Colorado under former Olympian and US alpine coach Thedo Remmelink.</p>
+    </div>
+    <ul>
+      <li>2025–26 USASA Maine Series: 11 gold medals from 11 starts (8 in alpine slalom and giant slalom, 3 in snowboard cross).</li>
+      <li>2nd, U16 National Alpine Snowboarding Championships, China, 2024; featured in ISF Virtuosos 2023/24 for this result.</li>
+      <li>4th, Adult Inner Mongolia Alpine Championships, China, 2025.</li>
+      <li>USASA rankings, 2025–26: 1st, Maine Mountain Series regional (slalom, giant slalom, and snowboard cross); 4th national (giant slalom and slalom); 9th national (snowboard cross).</li>
+      <li>Forthcoming, August 2026: Australia New Zealand Continental FIS Cup, Mt Hotham; FIS-level international debut.</li>
+    </ul>
+  </div>
+  <div class="entry">
+    <div class="entry-line">
+      <span class="entry-title">Championships Swimmer</span>
+      <span class="entry-date">2015 – 2025</span>
+    </div>
+    <div class="entry-sub">The ISF Academy · Championships division, above Division One</div>
+    <div class="entry-body">
+      <p>Competed in ACAMIS and HKSSF competitions, training ten hours weekly alongside a full
+      academic load.</p>
+    </div>
+    <ul>
+      <li>7th in Hong Kong, 50m and 100m backstroke, ISSF HK Championships.</li>
+      <li>5th, individual medley, ISSF HK Championships, November 2024.</li>
+      <li>Athletic Honors Scholarship, The ISF Academy: awarded three years running for championships-division swimming, covering full programme costs.</li>
+    </ul>
+  </div>
+
+  <h2>Languages</h2>
+  <div class="entry lang-line">
+    <strong>English</strong> (bilingual)<span class="sep">·</span>
+    <strong>Mandarin Chinese</strong> (bilingual)<span class="sep">·</span>
+    <strong>Cantonese</strong> (fluent)<span class="sep">·</span>
+    <strong>Manchu</strong> (advanced academic proficiency: reading, transcription, and instruction)<span class="sep">·</span>
+    <strong>German</strong> (beginner)<span class="sep">·</span>
+    <strong>Spanish</strong> (beginner)
+  </div>
+
+  <h2>Technical Skills</h2>
+  <div class="entry">
+    <p>Manchu-script transcription; Abkai and Möllendorff romanisation systems; conversion of manuscript
+    and graphic-based text into editable, publication-ready form; digital typesetting of Manchu and
+    CJK Unicode text; instructional video production.</p>
+  </div>
+
+</div>
+
+</body>
+</html>
