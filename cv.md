@@ -77,7 +77,8 @@ Alpine snowboard racing and snowboard cross. Selected at the national team selec
 - 2025–26 USASA Maine Series: 11 gold medals from 11 starts (8 in alpine slalom and giant slalom, 3 in snowboard cross)
 - 2nd, U16 National Alpine Snowboarding Championships, China, 2024; featured in ISF Virtuosos 2023/24 for this result
 - 4th, Adult Inner Mongolia Alpine Championships, China, 2025
-- USASA rankings, 2025–26: 1st, Maine Mountain Series regional (slalom, giant slalom, and snowboard cross); 4th national (giant slalom and slalom); 9th national (snowboard cross)
+- USASA national rankings, 2025–26: 4th (giant slalom and slalom); 9th (snowboard cross)
+- 1st, USASA Maine Mountain Series regional rankings, 2025–26: slalom, giant slalom, and snowboard cross
 - Forthcoming, August 2026: Australia New Zealand Continental FIS Cup, Mt Hotham; FIS-level international debut
 
 **Championships Swimmer, The ISF Academy** — *2015 to 2025*
