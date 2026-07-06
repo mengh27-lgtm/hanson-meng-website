@@ -87,12 +87,12 @@ Alpine snowboard racing and snowboard cross. Selected at the national team selec
 - 1st, USASA Maine Mountain Series regional rankings, 2025–26: slalom, giant slalom, and snowboard cross
 - Forthcoming, August 2026: Australia New Zealand Continental FIS Cup, Mt Hotham; FIS-level international debut
 
-**Championships Swimmer, The ISF Academy** — *2015 to 2025*
-Championships division, above Division One. Competed in ACAMIS and HKSSF competitions, training ten hours weekly alongside a full academic load.
+**Championships D1 Swimmer, The ISF Academy** — *2015 to 2025*
+Competed at Championships D1 level in ACAMIS and HKSSF competitions, training ten hours weekly alongside a full academic load.
 
 - 7th in Hong Kong, 50m and 100m backstroke, ISSF HK Championships
 - 5th, individual medley, ISSF HK Championships, November 2024
-- Athletic Honors Scholarship, The ISF Academy: awarded three years running for championships-division swimming, covering full programme costs
+- Athletic Honors Scholarship, The ISF Academy: awarded three years running for Championships D1 swimming, covering full programme costs
 
 ---
 
