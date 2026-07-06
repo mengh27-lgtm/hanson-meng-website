@@ -4,6 +4,12 @@ Bethel, Maine · Hong Kong | hansonmeng9@gmail.com | youtube.com/@manjugisun1
 
 ---
 
+## Profile
+
+Grade 12 student at Gould Academy working at the intersection of endangered-language scholarship and elite sport. Primary author of *Elementary Manchu for Heritage Speakers*, the first modern English-language heritage curriculum for the language, forthcoming with the National Foreign Language Resource Center (University of Hawaiʻi at Mānoa); research assistant in Qing-era Manchu philology at the University of Toronto; and a snowboard racer for the Hong Kong National Ski and Snowboarding Team. Intending to read East Asian studies and linguistics at university.
+
+---
+
 ## Education
 
 **Gould Academy**, Bethel, Maine — *2025 to 2027 (expected)*
@@ -44,7 +50,7 @@ Conducted historical research on East Asian demographic change under the mentors
 ## Teaching
 
 **Manchu Language Instructor, Changbaishan Research Institute** (in partnership with Tonghua University) — *Summer 2025; returning Summer 2026*
-Taught Manchu to a cohort of 16 students, including visiting doctoral students from the University of Chicago and Peking University alongside heritage learners: six hours of daily instruction across a two-week session, using the twelve syllables method; collaborated with university researchers on the verification of linguistic data. Returning for the Summer 2026 session. Instruction conducted at Changbaishan (Golmin Šanggiyan Alin), the sacred ancestral mountain of the Manchus and a UNESCO Biosphere Reserve and Global Geopark.
+Taught a cohort of 16, including visiting doctoral students from the University of Chicago and Peking University: six hours of daily instruction across a two-week session, using the twelve syllables method. Returning for the Summer 2026 session. Held at Changbaishan (Golmin Šanggiyan Alin), the sacred ancestral mountain of the Manchus and a UNESCO Biosphere Reserve and Global Geopark.
 
 ---
 
