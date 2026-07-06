@@ -34,7 +34,7 @@ Translation and transliteration of the Yongzheng-era Manchu primer (first publis
 ## Research Appointments
 
 **Research Assistant to Prof. Nathan Vedal, Department of East Asian Studies, University of Toronto** — *July 2026 to present*
-Sole research assistant on the project. Transcribing tales from three Manchu translations of the Liaozhai zhiyi, including two sole-surviving manuscripts, into Möllendorff romanisation, supporting a comparative study of Qing translation practice for a monograph in progress; three tales transcribed to date.
+Transcribing tales from three Manchu translations of the Liaozhai zhiyi, including two sole-surviving manuscripts, into Möllendorff romanisation, supporting a comparative study of Qing translation practice for a monograph in progress; three tales transcribed to date.
 
 **Research Assistant, Needham Research Institute, Cambridge** (under Dr. Jingyi Jenny Zhao, ISF Senior Research Fellow) — *2023 to 2024*
 Conducted historical research on East Asian demographic change under the mentorship of Dr. Jingyi Zhao (Needham Research Institute, University of Cambridge); authored a research paper analysing Chinese population cycles through Malthusian theory.
@@ -64,8 +64,8 @@ Accepted paper, "The Shi'er Zitou and the Ecological Conditions of Manchu Langua
 
 ## Service Leadership
 
-**Project Leader, Scavendgers, The ISF Academy** — *2022 to 2025*
-Led a student-run non-profit supporting Hong Kong's elderly cardboard scavengers: designed and laser-cut upcycled cardboard products (fridge magnets, bookmarks, badges, and art pieces) sold at school service days, raising roughly HK$5,000 in the first year and approximately HK$120,000 worth of goods and donations in 2024/25 for partner NGOs; produced interviews and awareness videos on scavenger poverty. Eight hours weekly across three school years, until departure for Gould Academy.
+**Project Leader, ScavENDgers, The ISF Academy** — *2022 to 2025*
+Led a student-run non-profit named for its mission to end the plight of Hong Kong's elderly cardboard scavengers: designed and laser-cut upcycled cardboard products (fridge magnets, bookmarks, badges, and art pieces) sold at school service days, raising roughly HK$5,000 in the first year and approximately HK$120,000 worth of goods and donations in 2024/25 for partner NGOs; produced interviews and awareness videos on scavenger poverty. Eight hours weekly across three school years, until departure for Gould Academy.
 
 ---
 
