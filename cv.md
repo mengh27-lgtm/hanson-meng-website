@@ -6,7 +6,7 @@ Bethel, Maine · Hong Kong | hansonmeng9@gmail.com | youtube.com/@manjugisun1
 
 ## Profile
 
-Grade 12 student at Gould Academy working at the intersection of endangered-language scholarship and elite sport. Primary author of *Elementary Manchu for Heritage Speakers*, the first modern English-language heritage curriculum for the language, forthcoming with the National Foreign Language Resource Center (University of Hawaiʻi at Mānoa); research assistant in Qing-era Manchu philology at the University of Toronto; and a snowboard racer for the Hong Kong National Ski and Snowboarding Team. Intending to read East Asian studies and linguistics at university.
+Grade 12 student at Gould Academy working at the intersection of endangered-language scholarship and elite sport. Primary author of *Elementary Manchu for Heritage Speakers*, the first modern English-language heritage curriculum for the language, now in revision following external review; research assistant in Qing-era Manchu philology at the University of Toronto; and a snowboard racer for the Hong Kong National Ski and Snowboarding Team. Intending to read East Asian studies and linguistics at university.
 
 ---
 
@@ -29,8 +29,8 @@ Grade 12 student at Gould Academy working at the intersection of endangered-lang
 
 ## Research and Publications
 
-**Elementary Manchu for Heritage Speakers** — *2025 to present; forthcoming 2027, NFLRC, University of Hawaiʻi at Mānoa*
-Primary author and editorial lead. The first modern English-language Manchu curriculum built on the traditional twelve syllables method, a syllabary-based pedagogy dormant since 1911. A four-volume series of approximately 450 pages with roughly 80 companion video lectures, written for heritage learners and the Manchu diaspora; romanisation follows the Abkai system. Forthcoming with the National Foreign Language Resource Center (NFLRC), University of Hawaiʻi at Mānoa, under a signed Letter of Agreement (November 2025); complete manuscript in peer review with three Manchu specialists.
+**Elementary Manchu for Heritage Speakers** — *2025 to present; complete manuscript in revision following external review*
+Primary author and editorial lead. The first modern English-language Manchu curriculum built on the traditional twelve syllables method, a syllabary-based pedagogy dormant since 1911. A four-volume series of approximately 450 pages with roughly 80 companion video lectures, written for heritage learners and the Manchu diaspora; romanisation follows the Abkai system. An authorised English adaptation of a recognised Chinese–Manchu curriculum, prepared with its author's permission and under his mentorship; the complete manuscript has undergone external review and is in revision, with publication being sought.
 
 **Qingwen Qimeng, annotated translation** — *in progress*
 Translation and transliteration of the Yongzheng-era Manchu primer (first published 1730), presented in parallel transliteration, Chinese, and English; 20 chapters completed to date.
@@ -57,7 +57,7 @@ Taught a cohort of 16, including visiting doctoral students from the University 
 ## Field Research
 
 **Sanjiazi (Ilan Boo Tokso), Heilongjiang Province** — *2025*
-Conducted a week of recorded field interviews with one of the last living native speakers of Manchu, in one of the final villages where the language survives in spoken form; transcribed phonetic data now incorporated into the NFLRC instructional series.
+Conducted a week of recorded field interviews with one of the last living native speakers of Manchu, in one of the final villages where the language survives in spoken form; transcribed phonetic data now incorporated into the instructional series.
 
 ---
 
